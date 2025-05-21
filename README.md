@@ -10,15 +10,15 @@ I'm a passionate Front-End Developer with 1 year of experience specializing in b
 ## 🛠️ Skills
 
 - Next.js - React.js
-- MongoBD
+- MongoDB
 - RESTful API
 - Tailwind CSS - Bootstrap
 - JavaScript - CSS - HTML
-- jQuery - SASS
-- Formik - shadcn-ui
+- jQuery - SASS - RWD
+- Formik - RegEx
+- shadcn-ui
 - Prettier - Babel.js - ESLint
-- RegEx - RWD - Markdown
-- Git - npm
+- Git - Markdown - npm
 
 ## 📫 Get in Touch
 
