@@ -14,7 +14,7 @@ I'm a passionate Front-End Developer with 1 year of experience specializing in b
 - RESTful API
 - Tailwind CSS - Bootstrap
 - JavaScript - CSS - HTML
-- jQuery - SASS - RWD
+- jQuery - SASS - JSON - RWD
 - Formik - RegEx
 - shadcn-ui
 - Prettier - Babel.js - ESLint
